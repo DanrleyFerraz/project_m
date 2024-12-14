@@ -83,7 +83,7 @@ class _MyHomePageState extends State<MyHomePage> {
           const SizedBox(width: 10), 
           FloatingActionButton(
             onPressed: _message,
-            tooltip: 'Increment',
+            tooltip: 'Message',
             child: const Icon(Icons.message),
           ),
             const SizedBox(width: 10), 
