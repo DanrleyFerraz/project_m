@@ -113,7 +113,7 @@ Abaixo, uma lista detalhada de funcionalidades em desenvolvimento e futuras:
 ---
 
 ## 🌱 Status do Projeto
-O **PROJETO M** está em fase inicial de desenvolvimento. Novos recursos e melhorias serão adicionados regularmente.  
+O **PROJECT M** está em fase inicial de desenvolvimento. Novos recursos e melhorias serão adicionados regularmente.  
 
 ### Cronograma de Desenvolvimento:
 | Etapa                      | Status         | Prazo          |
