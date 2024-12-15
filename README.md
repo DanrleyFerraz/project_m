@@ -125,7 +125,7 @@ O **PROJECT M** está em fase inicial de desenvolvimento. Novos recursos e melho
 
 ---
 
-## 🎨 Inspirado pelo Mestre MAGO
+## 🎨 Inspiração
 Este projeto é uma homenagem a academia PSF - Projeto Social Sem Fronteiras (André Mago Team), com quem o desenvolvedor compartilha os valores do Jiu Jitsu: disciplina, respeito e evolução. Além disso, o desenvolvedor também faz parte do **PSF - PROJETO SEM FRONTEIRAS**, e este aplicativo é também uma forma de honrar todo o legado e ensinamentos passados de geração a geração na academia inspirado pela célebre frase do grande mestre Carlos Gracie:  
 
 > "O adepto do Jiu-Jitsu deve, acima de tudo, prestigiar, amar e defender o grande esporte que praticamos."
